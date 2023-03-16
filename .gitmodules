@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CensSpatial"]
+	path = CensSpatial
+	url = https://github.com/joalor93/censspatial
+	shallow = true
+	registered = true
